@@ -44,3 +44,7 @@ The Invoice Payment Tracker is a project designed to help you track invoices and
 - **Track Invoices**: Add your invoice data to [invoices.csv](http://_vscodecontentref_/4).
 - **Identify Overdue Payments**: Use the functions in [query_utils.py](http://_vscodecontentref_/5) to query overdue invoices.
 - **Visualize Payment Trends**: Run [visualization.py](http://_vscodecontentref_/6) to generate visualizations of paid vs. overdue invoices.
+
+## Example Visualization
+
+![Paid vs Overdue Invoices](images/pie_chart.png)
